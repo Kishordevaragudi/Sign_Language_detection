@@ -10,3 +10,21 @@
 This project is designed to recognize and interpret sign language gestures using computer vision and machine learning techniques. Sign language is a vital means of communication for people with hearing impairments, and this application aims to bridge the communication gap by converting sign language gestures into text or speech.
 
 ### How to run the project
+1.Clone the repo:
+
+#### https://github.com/Kishordevaragudi/Sign_Language_detection_Modular.git
+
+2.Create virtual Enivornment
+
+#### Conda create -p venv python==3.8 -y
+
+3.Install python packages
+
+#### pip install -r requirements.txt
+
+4.Run the file
+
+#### python app.py
+
+## Flow chat of the project
+
