@@ -12,19 +12,19 @@ This project is designed to recognize and interpret sign language gestures using
 ### How to run the project
 1.Clone the repo:
 ```
-#### https://github.com/Kishordevaragudi/Sign_Language_detection_Modular.git
+https://github.com/Kishordevaragudi/Sign_Language_detection_Modular.git
 ```
 2.Create virtual Enivornment
 ```
-#### Conda create -p venv python==3.8 -y
+Conda create -p venv python==3.8 -y
 ```
 3.Install python packages
 ```
-#### pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 4.Run the file
 ```
-#### python app.py
+python app.py
 ```
 ### Flowchat of the project:
 ```
