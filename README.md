@@ -26,5 +26,9 @@ This project is designed to recognize and interpret sign language gestures using
 
 #### python app.py
 
-## Flow chat of the project
+### Flowchat of the project:
+
+https://github.com/Kishordevaragudi/Sign_Language_detection_Modular/tree/main/flowcharts
+
+
 
